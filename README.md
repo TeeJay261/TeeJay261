@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TeeJay261
-- 👀 I’m interested in ... Computer Vision and Digital Signal Processing
+- 👀 I’m interested in ... Computer Vision and Development
 - 🌱 I’m currently learning ... OpenCV
-- 💞️ I’m looking to collaborate on ... technical research projects
+- 💞️ I’m looking to collaborate on ... Challenging projects that'll keep me up at night
 - 📫 How to reach me ... tejajampani01@gmail.com
 
 <!---
