@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeeJay261
-- 👀 I’m interested in ... Open-source project development
-- 🌱 I’m currently learning ... NodeJS
+- 👀 I’m interested in ... Open-source project development and cybersecurity OS
+- 🌱 I’m currently learning ... AI orchestration for entreprise applications
 - 💞️ I’m looking to collaborate on ... Challenging projects that'll keep me up at night
 - 📫 How to reach me ... tejajampani01@gmail.com
 
